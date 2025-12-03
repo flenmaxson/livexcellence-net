@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "EasyConnect | Driver Updates & System Optimization",
+  title: "Livexcellence | Driver Updates & System Optimization",
   description:
-    "Keep your PC running smoothly with EasyConnect. Update drivers, optimize performance, and improve security for a faster, more reliable experience.",
+    "Keep your PC running smoothly with Livexcellence. Update drivers, optimize performance, and improve security for a faster, more reliable experience.",
 };
 
 
