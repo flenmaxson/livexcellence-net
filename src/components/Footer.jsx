@@ -128,6 +128,12 @@ export default function Footer() {
                   </svg>
                   Terms & Conditions
                 </Link></li>
+                <li><Link href="/disclaimer" className="text-gray-400 hover:text-white transition-colors flex items-center group">
+                  <svg className="w-4 h-4 mr-2 opacity-0 group-hover:opacity-100 transition-opacity" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                  Disclaimer
+                </Link></li>
               </ul>
             </div>
 
